@@ -1,6 +1,6 @@
-##Inter at Spark Foundation
+#Inter at Spark Foundation
 
-# smithparekh-TSF-Task-3
+smithparekh-TSF-Task-3
 
 From the given ‘Iris’ dataset, predict the optimum number of
 clusters and represent it visually.
